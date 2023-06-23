@@ -9,7 +9,7 @@ package Sehajpreet;
  * @author 14377
  */
 
-/**
+/*
  * This is a Java class named "sehajpreet".
  * It demonstrates basic structure and comments.
  */
